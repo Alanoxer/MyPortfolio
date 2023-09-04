@@ -27,7 +27,7 @@ return (<>
         </svg>
       </Link>
       
-      <Link href="https://www.linkedin.com/in/john-c-30412a280/" class="mr-6 text-neutral-600 dark:text-neutral-200 mb-2">
+      <Link href="https://www.linkedin.com/in/alan-compay-30412a280/" class="mr-6 text-neutral-600 dark:text-neutral-200 mb-2">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           class="h-7 w-7"
