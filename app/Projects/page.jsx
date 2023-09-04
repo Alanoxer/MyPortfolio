@@ -95,7 +95,7 @@ export default function Projects() {
     </div>
 <button className=" text-uppercase font-semibold h-12 w-40 relative left-5 top-9 rounded-full bg-red-500  hover:bg-red-600 border-2
  hove">
-    <Link href="/">
+    <Link href="https://newspage-v2-gq77m8sym-alanoxer.vercel.app">
     
       Visitar
     </Link>
